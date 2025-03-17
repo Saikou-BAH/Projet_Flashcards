@@ -109,4 +109,4 @@ Vous pouvez contribuer en :
 
 ## 8. Contact
 
-Pour toute question ou suggestion, n'hésitez pas à me contacter sur GitHub ou LinkedIn ou via mon site  saikou-bah.github.io/mon_site_public
+Pour toute question ou suggestion, n'hésitez pas à me contacter sur GitHub ou LinkedIn ou via mon site  **https://saikou-bah.github.io/mon_site_public/** 
